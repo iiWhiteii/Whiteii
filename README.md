@@ -32,6 +32,7 @@
 
 ![WHITEII's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHITEII&show_icons=true&theme=transparent&title_color=00090d)
 
+![WHITEII's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHITEII&show_icons=true&theme=transparent&icon_color=00090d&title_color=00090d&border_color=00090d&text_color=00090d)
 
 
 
