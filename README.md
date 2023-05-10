@@ -1,9 +1,9 @@
 
 
 
-<div style="display:flex; justify-content:center;">
+<p align="center">
   <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="180" height="180">
-</div>
+</p>
 
 
 
