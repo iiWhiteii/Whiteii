@@ -1,6 +1,4 @@
 # ♕  About Me:
-# <p align="center"> ♕  About Me: </p>
-
 <p align="center">
   ⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory, commonly known as a "bot". <br>
   ⚁ I will be participating in the Break-Through AI Teach program at Cornell Tech this summer and will be working on real-life datasets. <br>
