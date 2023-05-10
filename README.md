@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <b><font size="10">Don't hesitate to ask me any questions you may have.</font></b>
+  <b><font size="10"> ♞Don't hesitate to ask me any questions you may have.</font></b>
 </p>
 
 
