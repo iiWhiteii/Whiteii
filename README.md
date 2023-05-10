@@ -2,9 +2,9 @@
 
 <p>
   <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory known as a "bot"</b> <br>
-  <b>⚁ I will be participating in the Break-Through AI Teach program at Cornell Tech this summer and will be working on real-life datasets</b> <br>
-  <b>⚂ I’m currently learning mathematics and machine learning in terms of application</b> <br>
-  <b>⚃ How to reach me: lianghui732@gmail.com</b> <br>
+  <b>⚁This summer, I will be enrolled in the Break-Through AI Teach program at Cornell Tech, where I will be working with real-life datasets </b> <br>
+  <b>⚂  I am currently studying the practical applications of mathematics and machine learning</b> <br>
+  <b>⚃ You can contact me at lianghui732@gmail.com </b> <br>
 </p>
 
 
