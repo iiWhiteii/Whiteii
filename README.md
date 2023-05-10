@@ -24,7 +24,8 @@
 
 
 ## 🏳️ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liang-zhang-795279a4/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCoFSetLW4piOgNrkXWFc3jw) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liang-zhang-795279a4/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCoFSetLW4piOgNrkXWFc3jw)[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/lianghuizhang)
+
 
 # ☯️ GitHub Stats:
 [![WHITEII's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WHITEII&theme=high-contrast&bg_color=ffffff&color=000000&point=000000&line=000000&title_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph) 
