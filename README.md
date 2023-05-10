@@ -1,7 +1,7 @@
 
 
 
-![Your GIF Title](https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584)
+![Your GIF Title](https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?width=400&height=300)
 
 
 
