@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/liang-zhang-795279a4/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCoFSetLW4piOgNrkXWFc3jw) 
 
 # ☯️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&bg_color=DEG,gray,white)<br/>
+![](https://github-readme-stats.vercel.app/api?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&bg_color=DEG,gray,white&title_color=black)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WHITEII&theme=buefy&hide_border=false&background=DEG,white,gray)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=DEG,gray,white)
 
