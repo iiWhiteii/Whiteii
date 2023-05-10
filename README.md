@@ -1,10 +1,14 @@
 # ♕  About Me:
-<p>
+
+<p style="font-weight: bold; color: black;">
   ⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory, commonly known as a "bot". <br>
   ⚁ I will be participating in the Break-Through AI Teach program at Cornell Tech this summer and will be working on real-life datasets. <br>
   ⚂ I’m currently learning mathematics and machine learning in terms of application. <br>
   ⚃ How to reach me: lianghui732@gmail.com <br>
 </p>
+
+
+
 
 <p align="center">
   <b><font size="5">Don't hesitate to ask me any questions you may have.</font></b>
