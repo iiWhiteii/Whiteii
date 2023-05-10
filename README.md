@@ -11,8 +11,10 @@
 
 # ☯️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&bg_color=DEG,gray,white&title_color=black)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WHITEII&theme=buefy&hide_border=false&background=DEG,white,gray)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=DEG,gray,white)
+![](https://github-readme-streak-stats.herokuapp.com/?user=WHITEII&theme=buefy&hide_border=false&background=DEG,white,gray&title_color=black)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEII&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=DEG,gray,white&title_color=black)
+
+
 
 
 
