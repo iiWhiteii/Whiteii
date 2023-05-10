@@ -1,7 +1,10 @@
 
 
 
-<img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="200" height="200">
+<div style="text-align: center;">
+  <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="180" height="180">
+</div>
+
 
 
 
