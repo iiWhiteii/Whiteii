@@ -48,12 +48,7 @@
 ![WHITEII's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHITEII&show_icons=true&theme=transparent&icon_color=00090d&title_color=00090d&border_color=00090d&text_color=00090d)
 
 
-[![](https://visitcount.itsvg.in/api?id=WHITEII&icon=1&color=0&background=0&text=0)](https://visitcount.itsvg.in)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=WHITEII&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=WHITEII&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
