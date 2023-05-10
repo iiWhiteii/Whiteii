@@ -28,7 +28,7 @@
 
 # ☯️ GitHub Stats:
 [![WHITEII's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WHITEII&theme=high-contrast&bg_color=ffffff&color=000000&point=000000&line=000000&title_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-![WHITEII's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![WHITEII's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHITEII&show_icons=true&theme=radical)
 
 
 
