@@ -1,9 +1,9 @@
 # ♕  About Me:
 
 <p>
-  <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory known as a "bot".</b> <br>
-  <b>⚁ I will be participating in the Break-Through AI Teach program at Cornell Tech this summer and will be working on real-life datasets.</b> <br>
-  <b>⚂ I’m currently learning mathematics and machine learning in terms of application.</b> <br>
+  <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory known as a "bot"</b> <br>
+  <b>⚁ I will be participating in the Break-Through AI Teach program at Cornell Tech this summer and will be working on real-life datasets</b> <br>
+  <b>⚂ I’m currently learning mathematics and machine learning in terms of application</b> <br>
   <b>⚃ How to reach me: lianghui732@gmail.com</b> <br>
 </p>
 
