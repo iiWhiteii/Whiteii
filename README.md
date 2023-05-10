@@ -38,7 +38,8 @@
 
 
 ## 🏳️ Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liang-zhang-795279a4/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCoFSetLW4piOgNrkXWFc3jw) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/lianghuizhang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/liang-zhang-795279a4/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&color=black)](https://www.youtube.com/channel/UCoFSetLW4piOgNrkXWFc3jw) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/lianghuizhang)
+
 
 
 # ♜ GitHub Stats:
