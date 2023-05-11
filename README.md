@@ -1,11 +1,27 @@
 
 
 
-<p align="center">
-  <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="190" height="190">
-</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Psychic-Type Moves</title>
+  </head>
+  <body>
+    <h1 align="center">Psychic-Type Moves</h1>
+    <p align="center">
+      <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="190" height="190">
+      <img src="https://orangemushroom.files.wordpress.com/2015/07/esp-battle-order-effect.gif?w=584" width="100" height="100" style="position: absolute; top: 0; left: 0;">
+    </p>
+    <ul>
+      <li>Psychic</li>
+      <li>Future Sight</li>
+      <li>Psybeam</li>
+      <li>Psych Up</li>
+      <li>Extrasensory</li>
+    </ul>
+  </body>
+</html>
 
-<img src="https://orangemushroom.files.wordpress.com/2015/07/esp-battle-order-effect.gif?w=584" width="190" height="190" style="position: absolute; top: 0; left: 0;">
 
 
 
