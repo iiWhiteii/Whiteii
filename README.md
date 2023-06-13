@@ -24,10 +24,10 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/r-programming.png" alt="R" title="R" width="48" height="48" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="48" height="48" />
+
+ 
 </p>
 
 
