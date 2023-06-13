@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/r.png" alt="R" title="R" width="48" height="48" />
+  <img src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" alt="R" title="R" width="48" height="48" />
 
 
  
