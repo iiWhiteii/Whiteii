@@ -14,6 +14,9 @@
   <b>⚃ You can contact me at lianghui732@gmail.com </b> <br>
 </p>
 
+<p>
+  <em> The 10,000-hour rule says that if you look at any kind of cognitively complex field, from playing chess to being a neurosurgeon, we see this incredibly consistent pattern that you cannot be good at that unless you practice for 10,000 hours, which is roughly ten years if you think about four hours a day. </em>
+</p>
 
 
 
