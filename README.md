@@ -25,14 +25,23 @@
   <b><font size="10"> ♞Don't hesitate to ask me any questions you may have.</font></b>
 </p>
 
+<h1 align="center">Skills</h1>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="48" height="48" />
   <img src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" alt="R" title="R" width="48" height="48" />
+</p> 
 
-
- 
+<h1 align="center">Packages</h1>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" title="PyTorch" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" title="pandas" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" alt="Matplotlib" title="Matplotlib" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/seaborn.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
 </p>
+
 
 
 
