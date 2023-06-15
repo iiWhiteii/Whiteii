@@ -38,8 +38,8 @@
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" title="PyTorch" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas" title="pandas" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" width="48" height="48" />
-  <img src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" title="Matplotlib" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="Seaborn" title="Seaborn" width="48" height="48" />
+  <img src="![image](https://github.com/Whiteii/Whiteii/assets/87407915/5b515f35-e35f-468d-bb48-9cfbc6076f3f)" alt="Matplotlib" title="Matplotlib" width="48" height="48" />
+  <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
 </p>
 
 
