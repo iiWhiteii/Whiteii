@@ -15,4 +15,4 @@
             user_name: Whiteii
             # Text on contribution graph 
             text: White
-       - uses: jasineri/simple-push-action@v1
+       - uses: Whiteii/simple-push-action@v1
