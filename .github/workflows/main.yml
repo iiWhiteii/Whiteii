@@ -17,13 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
       - name: Generate snake contribution graph
-        run: python generate_snake.py ${{ secrets.GITHUB_TOKEN }}
+        uses: Platane/snk@master
+        with:
+          github_user_name: Whiteii
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Rest of the steps...
