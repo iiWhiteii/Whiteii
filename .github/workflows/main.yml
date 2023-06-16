@@ -1,18 +1,44 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: Whiteii/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: Whiteii
-            # Text on contribution graph 
-            text: White
-       - uses: Whiteii/simple-push-action@v1
+name: Generate Snake
+
+on:
+  schedule:
+    # Run the workflow every 6 hours
+    - cron: "0 */6 * * *"
+  push:
+    # Run the workflow when there are new commits pushed to the repository
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake contribution graph
+        uses: Platane/snk@master
+        with:
+          github_user_name: YourGitHubUserName
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+          git commit -m "Update snake contribution graph"
+          git push
+
+      - name: Update README
+        run: |
+          # Your script or action to update the README file with the generated snake animation
+
+      - name: Deploy README
+        run: |
+          # Your script or action to deploy the updated README file
+
+      # Additional steps as needed...
+
