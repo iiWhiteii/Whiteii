@@ -20,6 +20,7 @@
 
 
 
+![Snake Contribution Graph](https://github.com/Whiteii/Whiteii/raw/main/github-user-contribution.svg)
 
   
 
