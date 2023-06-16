@@ -43,7 +43,6 @@
 </p> 
 
 
-![Snake animation](https://github.com/{{Whiteii}}/{{Whiteii}}/blob/output/github-contribution-grid-snake.svg)
 
 
 
