@@ -19,7 +19,6 @@
 </p> 
 
 
-![gitartwork](gitartwork.svg)
 
 
   
