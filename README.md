@@ -19,6 +19,7 @@
 </p> 
 
 
+![Snake Contribution Graph](https://raw.githubusercontent.com/Whiteii/Whiteii/main/dist/github-contribution-grid-snake.gif)
 
 
 
