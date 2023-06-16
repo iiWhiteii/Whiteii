@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Run the workflow every 6 hours
+    - cron: "0 */6 * * *"
+  push:
+    # Run the workflow when there are new commits pushed to the repository
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake contribution graph
+        uses: Platane/snk@master
+        with:
+          github_user_name: Whiteii
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      # Rest of the steps...
