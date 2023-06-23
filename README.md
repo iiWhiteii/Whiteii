@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/7suaZgwEBe4AAAAd/yoriichi-demon-slayer.gif" width="190" height="190">
+  <img src="https://gifdb.com/images/file/demon-slayer-yoriichi-tsugikuni-hvfnxx615t3shel4.gif" width="190" height="190">
   <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="190" height="190">
   <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-shield-effect.gif?w=361&zoom=2" width="190" height="190" style="position: absolute; top: 0; right: 0;">
 </p>
