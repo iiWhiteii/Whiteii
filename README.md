@@ -6,11 +6,9 @@
 
 
 
-# ♕  About Me: 
+#  <img src="https://static.wikia.nocookie.net/fire-brigade-of-flames/images/3/3a/Sho_Infobox.png/revision/latest?cb=20181215151425" width="100" height="100" alt="Your Image">  About Me: 
 
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/fire-brigade-of-flames/images/3/3a/Sho_Infobox.png/revision/latest?cb=20181215151425" width="100" height="100" alt="Your Image">
-</p>
+
 
 
 <p>
