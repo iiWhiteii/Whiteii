@@ -6,7 +6,12 @@
 
 
 
-# ♕  About Me:
+# ♕  About Me: 
+
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/fire-brigade-of-flames/images/3/3a/Sho_Infobox.png/revision/latest?cb=20181215151425" width="100" height="100" alt="Your Image">
+</p>
+
 
 <p>
   <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory known as a "bot"</b> <br>
