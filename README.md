@@ -1,7 +1,6 @@
 <p align="center">
-   <img src="https://i.pinimg.com/originals/dc/bf/31/dcbf31bac35f190ad6d66d4bdfeb8013.gif" width="300" height="300">
-   <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="190" height="190">
-   <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-shield-effect.gif?w=361&zoom=2" width="190" height="190" style="position: absolute; top: 0; right: 0;">
+   <img src="https://www.pinterest.com/pin/1152851204593265570/" width="300" height="300">
+   
 
 </p>
 
