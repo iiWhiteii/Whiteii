@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://media.tenor.com/4wGm2z9q1xsAAAAd/yoriichi-tsugikuni-yoriichi.gif" width="190" height="190" style="position: absolute; top: 0; left: 0;">
-  <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=584" width="190" height="190">
-  <img src="https://orangemushroom.files.wordpress.com/2015/07/psychic-shield-effect.gif?w=361&zoom=2" width="190" height="190" style="position: absolute; top: 0; right: 0;">
+   <img src="https://media.tenor.com/2DhHa-X1YFcAAAAd/demon-slayer-yoriichi-demon-slayer.gif" width="500" height="300">
+   
+
 </p>
 
 
-# ♕  About Me:
+
+#  <img src="https://static.wikia.nocookie.net/fire-brigade-of-flames/images/3/3a/Sho_Infobox.png/revision/latest?cb=20181215151425" width="50" height="50" alt="Your Image">  About Me: 
+
+
+
 
 <p>
   <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory known as a "bot"</b> <br>
