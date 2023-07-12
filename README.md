@@ -69,7 +69,7 @@
 
 
 # ♜ Contribution:
-![Snake Contribution Graph](https://raw.githubusercontent.com/Whiteii/Whiteii/5dbe4b5d5257dd061b78d9797a2fcb3b14edeca2/github-user-contribution.svg)
+![Snake Contribution Graph](https://raw.githubusercontent.com/Whiteii/Whiteii/13c70d84573e83dc11681f620f6bb524c43ffbef/github-user-contribution.svg)
 
 
 
