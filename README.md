@@ -6,7 +6,7 @@
 
 
 
-#  <img src="https://static.wikia.nocookie.net/villains/images/1/18/Kokushibo_%28Anime%29.png/revision/latest/scale-to-width-down/1200?cb=20230423152919" width="70" height="50" alt="Your Image">  About Me: 
+#  <img src="https://i.pinimg.com/564x/f3/42/c0/f342c0fdfc7ee48aea5f4e93140b802c.jpg" width="70" height="50" alt="Your Image">  About Me: 
 
 
 
