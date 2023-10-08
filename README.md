@@ -6,7 +6,7 @@
 
 
 
-#  <img src="https://i.pinimg.com/564x/f3/42/c0/f342c0fdfc7ee48aea5f4e93140b802c.jpg" width="50" height="50" alt="Your Image">  About Me: 
+#  <img src="https://dthezntil550i.cloudfront.net/90/latest/902006071517123940014990731/1280_960/fdc334d7-24f6-44d1-bc5d-03ffbc979636.png" width="50" height="50" alt="Your Image">  About Me: 
 
 
 
