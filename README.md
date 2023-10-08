@@ -6,7 +6,7 @@
 
 
 
-#  <img src="https://static.wikia.nocookie.net/fire-brigade-of-flames/images/3/3a/Sho_Infobox.png/revision/latest?cb=20181215151425" width="50" height="50" alt="Your Image">  About Me: 
+#  <img src="https://static.wikia.nocookie.net/villains/images/1/18/Kokushibo_%28Anime%29.png/revision/latest/scale-to-width-down/1200?cb=20230423152919" width="50" height="50" alt="Your Image">  About Me: 
 
 
 
