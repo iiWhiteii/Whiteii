@@ -13,8 +13,8 @@
 
 <p>
   <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory training agent using Deep Q Learning Algorithm </b> <br>
-  <b>⚁ I'm currently enrolled in a program at Breakthrough Tech AI at Cornell Tech, where I'm collaborating with a startup called ANOTE on a project focused on hierarchical text classification within the field of Natural Language Processing (NLP) </b>  <br>
-  <b>⚂ I dedicate over four hours almost every day to my studies, and I have a strong passion for athletics, achieving personal bests in the 200-meter sprint with a time of 24 seconds and the 400-meter dash with a time of 54 seconds. Currently, my keen interest lies in calisthenics and making current focusing on making AI and Machine Learning video on my youtube channel </b> <br>
+  <b>⚁  I'm collaborating with a startup called ANOTE on a project focused on hierarchical text classification within the field of Natural Language Processing (NLP) </b>  <br>
+  <b>⚂ Currently, my keen interest lies in calisthenics and making current focusing on making AI and Machine Learning video on my youtube channel </b> <br>
   <b>⚃ You can contact me at lianghui732@gmail.com </b> <br>
 </p>
 
