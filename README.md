@@ -14,7 +14,7 @@
 <p>
   <b>⚀ At the moment, I am developing a program that automates gameplay in the online game MapleStory training agent using Deep Q Learning Algorithm </b> <br>
   <b>⚁  I'm collaborating with a startup called ANOTE on a project focused on hierarchical text classification within the field of Natural Language Processing (NLP) </b>  <br>
-  <b>⚂ Currently, my keen interest lies in calisthenics and making current focusing on making AI and Machine Learning video on my youtube channel. It's always about balance. It's ok to be unbalance time to time. </b> <br>
+  <b>⚂ Currently, my keen interest lies in calisthenics and making current focusing on making AI and Machine Learning video on my youtube channel. It's always about balance. It's ok to be unbalance time to time </b> <br>
   <b>⚃ You can contact me at lianghui732@gmail.com </b> <br>
 </p>
 
