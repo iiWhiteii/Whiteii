@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/Whiteii/Whiteii/blob/main/Animation839.gif" width="500" height="300">
+   <img src="https://github.com/Whiteii/Whiteii/blob/main/jing-c-2.jpg" width="500" height="300">
    
 
 </p>
