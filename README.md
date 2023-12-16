@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="48" height="48" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/05/Emblem-Google-Cloud.jpg" alt="R" title="R" width="48" height="48" />
+  <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1288-h9qynww8.png" alt="R" title="R" width="48" height="48" />
 </p> 
 
 <h1 align="center">Packages</h1>
