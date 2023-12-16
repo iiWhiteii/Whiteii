@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" title="SQL" width="48" height="48" />
-  <img src="https://www.pinpng.com/pngs/m/17-170783_google-cloud-icon-logo-large-192px-color-google.png" alt="R" title="R" width="48" height="48" />
+  <img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg" alt="R" title="R" width="60" height="48" />
 </p> 
 
 <h1 align="center">Packages</h1>
