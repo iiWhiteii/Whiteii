@@ -38,7 +38,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="48" height="48" />
   <img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg" alt="R" title="R" width="60" height="48" />
-   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" title="SQL" width="48" height="48" />
+   <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="SQL" title="SQL" width="60" height="48" />
 
 </p> 
 
