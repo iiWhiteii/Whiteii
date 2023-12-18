@@ -51,9 +51,9 @@
   <img src="https://github.com/Whiteii/Whiteii/assets/87407915/5b515f35-e35f-468d-bb48-9cfbc6076f3f" alt="Matplotlib" title="Matplotlib" width="48" height="48" />
   <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
   <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
-  <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Langchain" width="48" height="48" />
+  <img src="https://camo.githubusercontent.com/79721436e6ed56eb6ab1c9062e322dc75fdb1ae06f6ae5397c278535342a2e23/68747470733a2f2f776562696d616765732e6d6f6e676f64622e636f6d2f5f636f6d5f6173736574732f636d732f6c6d617376667235696d626674327362662d4c616e67436861696e5f576f726b6d61726b5f436f6c6f72253230312e7376673f6175746f3d666f726d61742532353243636f6d7072657373" alt="Seaborn" title="Langchain" width="48" height="48" />
   <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Pydantic" width="48" height="48" />
-   <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Pinecone" width="48" height="48" />
+   <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="Seaborn" title="Pinecone" width="48" height="48" />
   
    
 </p> 
