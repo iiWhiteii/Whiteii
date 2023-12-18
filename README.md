@@ -42,7 +42,7 @@
 
 </p> 
 
-<h1 align="center">Packages</h1>
+<h1 align="center">Library</h1>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="48" height="48" />
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" title="PyTorch" width="48" height="48" />
@@ -50,6 +50,12 @@
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" width="48" height="48" />
   <img src="https://github.com/Whiteii/Whiteii/assets/87407915/5b515f35-e35f-468d-bb48-9cfbc6076f3f" alt="Matplotlib" title="Matplotlib" width="48" height="48" />
   <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
+  <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png" alt="Seaborn" title="Seaborn" width="48" height="48" />
+  <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Langchain" width="48" height="48" />
+  <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Pydantic" width="48" height="48" />
+   <img src="https://pbs.twimg.com/profile_images/1668281675774664705/EEzdj0tm_400x400.jpg" alt="Seaborn" title="Pinecone" width="48" height="48" />
+  
+   
 </p> 
 
 
