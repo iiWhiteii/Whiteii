@@ -10,6 +10,11 @@
 # About Me:   
 
 
+The mindset is to have an active learning mindset. Often, people say, "Oh, I don't need to learn this," especially when it's not related to their field. But this is true; change that mindset.
+
+
+
+
 
 
 <p>
