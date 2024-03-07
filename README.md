@@ -10,7 +10,7 @@
 # About Me:   
 
 
-I have a passion for learning.
+I have a passion for learning..
 
 
 
