@@ -13,9 +13,7 @@
 
 I have a passion for learning....
 
-currently focusing on ios development
-page 71 04-06-2024/
-page 75 04-06-2024/
+currently making vid and ios
 
 
 
